@@ -1,1 +1,1 @@
-Replace this with your name, and include a header.
+# Valerie Cummings, Front-end designer and developer
